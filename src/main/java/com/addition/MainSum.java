@@ -5,7 +5,8 @@ public class MainSum {
         Sum sum = new Sum();
         sum.num1 = 10;
         sum.num2 = 7;
-        sum.Sum();
+        sum. Sum();
+
 
     }
 }
